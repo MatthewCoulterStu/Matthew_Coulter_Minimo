@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+.hidden {
+	visibility: hidden;
+}
+#logo {
+	font-family: 'Inconsolata', monospace;
+}
+
+p {
+	font-family: 'Playfair Display', serif; 
+}
+
+.faded {
+	font-family: 'Ubuntu', sans-serif;
+	opacity: 70%
+}
